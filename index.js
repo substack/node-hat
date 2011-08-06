@@ -40,7 +40,7 @@ hat.rack = function (bits, base, expandBy) {
             }
             
             var id = hat(bits, base);
-        } while (Object.hasOwnProperty.call(hats, id));
+        } while (hats.hasOwnProperty(id));
         
         hats[id] = data;
         return id;
