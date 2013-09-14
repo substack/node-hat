@@ -80,8 +80,4 @@ First you will need a large square of cloth or paper. These materials work well:
 If you find yourself at a fancy restraurant, large napkins are in abundant
 supply.
 
-Fold the cloth along the diagonal. Bring the far ends perpendicular to the
-diagonal up past the diagonal a short distance on each side. Fold one end back
-in order to fold in the inner section of the hat then put the folded-out end
-back like the other side. Now roll up each side of the hat from the bottom
-several turns to keep it sturdy. Place the hat on your head and enjoy!
+Tie a knot in each corner. Place the hat on your head and enjoy!
