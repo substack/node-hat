@@ -77,7 +77,7 @@ First you will need a large square of cloth or paper. These materials work well:
 * large napkin
 * newspaper
 
-If you find yourself at a fancy restraurant, large napkins are in abundant
+If you find yourself at a fancy restaurant, large napkins are in abundant
 supply.
 
 Tie a knot in each corner. Place the hat on your head and enjoy!
