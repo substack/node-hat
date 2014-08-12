@@ -76,6 +76,7 @@ First you will need a large square of cloth or paper. These materials work well:
 
 * large napkin
 * newspaper
+* foil
 
 If you find yourself at a fancy restaurant, large napkins are in abundant
 supply.
